@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#pantalla {
+    width: 220px;
+    height: 30px;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    background-color: lightgrey;
+    border: none;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.equal {
+    background-color: lightgreen;
+    width: 165px;
+}
