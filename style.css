@@ -28,3 +28,24 @@ button {
     background-color: lightgreen;
     width: 165px;
 }
+
+/* @media (max-width: 500px) {
+  .calculadora {
+    width: 100%;
+    border-radius: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  #pantalla {
+    font-size: 2em;
+    height: 60px;
+  }
+
+  button {
+    padding: 18px;
+    font-size: 1.4em;
+  }
+} */
